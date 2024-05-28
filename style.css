@@ -1,0 +1,355 @@
+body{
+    font-family: 'Source Sans 3', sans-serif !important;
+    
+
+}
+/* Header css starts here */
+#Header{
+    margin-top: 20px;
+    /* background-color: #f6f5f5; */
+    text-align: center;
+    margin-bottom: 20px;
+}
+#Header h1{
+    
+    font-size: 25px;
+    font-weight: 290;
+    font-family: 'Source Sans 3', sans-serif !important;
+
+    
+}
+#Header span{
+    font-family: 'Source Sans 3', sans-serif !important;
+    font-weight: 900;
+    
+}
+/* Header css ends here  */
+
+/* Navbar css Starts here  */
+#Navbar{
+    text-align: center;
+    margin-top: 30px;
+    
+    background-color: #2d2d2d;
+    width: 100% !important;
+    
+
+}
+#Navbar ul{
+    display: inline-block;
+}
+#Navbar ul li{
+    display: inline-block;
+    padding-right: 60px;
+    color: white;
+    padding-top: 7px;
+    font-size: 17px;
+    font-weight: 200;
+}
+#Navbar h1{
+    background-color: #35bbf5;
+    height: 18px;
+}
+/* Navbar css ends here  */
+/* BgSection scc Starts here */
+#BgSection{
+    margin-top: -22px;
+    background-image: url(./Images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
+    
+}
+#title{
+    word-spacing: 2px;
+    padding-top: 35px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-weight: 100;
+    font-size: 20px;
+    color: white;
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    
+}
+
+#title span{
+    font-weight: 900;
+}
+#abc{
+    border-bottom: 1px dotted white;
+    font-weight: 100 !important;
+}
+#title button{
+    
+    padding: 15px 33px 15px 33px;
+    border-radius: 6px;
+    color: white;
+    font-size: 15px;
+    border: none;
+    background-color: #35b8f0;
+    cursor: pointer;
+}
+/* BgSection scc ends here */
+
+/* Icon css Starts here */
+#Icon{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 35px;
+}
+#Icon i{
+    font-size: 40px;
+    background-color: #30aade;
+    padding: 28px 28px 28px 28px;
+    border-radius: 100%;
+    color: white;
+}
+
+#Icon div{
+    display: inline-block;
+    padding-right: 40px;
+}
+#Icon h2{
+    padding-top: 20px;
+    font-size: 20px;
+    color: #474747;
+    padding-bottom: 17px;
+}
+#Icon p{
+    font-weight: 300;
+    font-size: 18px;
+}
+
+/* Icon css ends here */
+
+/* MidPart css Start here */
+ #MidPart{
+    width: 100%;
+    background-color: #f6f5f5;
+    height: 200px;
+    text-align: center;
+    
+ }
+ #MidPart h1{
+    
+    padding-top: 45px;
+    font-size: 35px;
+    color: #474747;
+    padding-bottom: 10px;   
+ }
+ #MidPart p{
+    padding-top: 20px !important;
+    font-size: 24px;
+    font-weight: 100;
+    border-top: 1px solid #c1bebe;
+     display: inline;
+ }
+ #MidPart span{
+    color: #f6f5f5;
+ }
+ /* MidPart css ends here */
+
+ /* Image css Start here */
+#Image{
+    margin-top: 45px;
+    width: 100%;
+    margin-left: 150px;
+    margin-bottom: 40px;
+}
+#Image div{
+    display: inline-block;
+    padding-right: 35px;
+    
+}
+#Image img{
+    width: 150px;
+    border-radius: 6px;
+}
+#Image h2{
+    font-size: 20px;
+    color: #474747 ;
+}
+#Image p{
+    font-weight: 100;
+    color: #3e3d3d;
+    font-size: 17px;
+}
+
+/* Image css ends here */
+
+/* Que css Starts here */
+
+#Que{
+    width: 100%;
+    height: 100px;
+    background-color: #34b3ea;
+    text-align: center;
+}
+#Que div{
+    display: inline-block;
+}
+#Que h1{
+    padding-top: 10px;
+    color: white;
+    padding-bottom: 25px !important;
+}
+#btn{
+    margin-left: 20px !important;
+}
+#Que button{
+    padding: 15px 35px 15px 35px;
+    border-radius: 6px;
+    color: #474747 ;
+    font-weight: 700;
+    font-size: 15px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+
+/* Que css ends here */
+
+/* Footer css Starts here */
+Footer{
+    margin-top: 45px;
+    width: 100%;
+    text-align: center;
+    background-color: #f6f5f5; 
+    margin-bottom: 20px;   
+}
+#Footer p{
+    font-weight: 100;
+    color: #3e3d3d;
+    font-size: 17px;
+    
+}
+
+#section1{
+    padding-left: 75px;
+    padding-right: 30px !important;
+}
+#section1 h2{
+    font-size: 22px;
+    color: #474747 ;
+}
+#section2{
+    padding-right: 50px;
+}
+#section2 h2{
+    font-size: 22px;
+    color: #474747 ;
+}
+#Footer div{
+    display: inline-block;
+    padding-right: 30px;
+
+}
+#form{
+    padding-top: 20px;
+    padding-right: 50px;
+}
+#form h2{
+    font-size: 22px;
+    padding-bottom: 12px;
+    color: #474747 ;
+}
+form{
+    padding-left: 120px;
+    width: 90%;
+    max-width: 600px;
+}
+.input-grp{
+    margin-bottom: 10px;
+}
+.input-grp-message{
+    width: 71.5%;
+}
+input,textarea{
+    width: 100%;
+    padding: 7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* outline: #747373; */
+    border: 1px solid #d4d0d0;
+    font-size: 15px;  
+    border-radius: 5px; 
+}
+#form button{
+    margin-top: 7px;
+    padding: 15px 35px 15px 35px;
+    border-radius: 6px;
+    color:white;
+    font-weight: 700;
+    font-size: 15px;
+    border: none;
+    background-color: #4c4c4c;
+    cursor: pointer;
+}
+
+/* Footer css ends here */
+
+/* Footer2 css Start here */
+#Footer2{
+    margin-top:50px;
+    text-align: center;
+    margin-bottom: 70px;
+    
+}
+#Footer2 ul{
+    display: inline-block;
+}
+#Footer2 ul li{
+    display: inline-block;
+    padding-right: 22px;
+}
+
+.fa.fa-twitter{
+    font-size: 30px;
+    
+    
+    border-radius: 100%;
+    color: #999999;
+}
+.fa.fa-facebook{
+    font-size: 30px;
+
+    
+    border-radius: 100%;
+    color: #999999;
+}
+
+.fa.fa-github{
+    font-size: 30px;
+
+    
+    border-radius: 100%;
+    color: #999999;
+}
+.fa.fa-linkedin{
+    font-size: 30px;
+    /* padding-right: 10px !important; */
+    
+    border-radius: 100%;
+    color: #999999;
+}
+
+.fa.fa-google-plus{
+    font-size: 30px;
+    padding-left: 10px !important;
+    
+    border-radius: 100%;
+    color: #999999;
+}
+#abc{
+    font-size: 15px;
+    display: inline;
+}
+#Footer2 span{
+    border-bottom: 2px dotted #c7c1bf ;
+}
+#xyz{
+    border-right: 1px solid #c7c1bf;
+    border-left: 1px solid #c7c1bf;
+    padding-left: 15px;
+    margin-right: 20px ;
+}
+/* Footer2 css ends here */
